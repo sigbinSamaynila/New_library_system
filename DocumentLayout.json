@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\addstudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\addstudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\libraryadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\libraryadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\libraryadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\libraryadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\borrow_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\borrow_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\return_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\return_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\last-inventory-master\\last inventory\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\last-inventory-master\\last inventory\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\last-inventory-master\\last inventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\last-inventory-master\\last inventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\roundtextbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\roundtextbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\borrow_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\borrow_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\superadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\superadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\return_books.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\return_books.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\edit_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\edit_book.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\return.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\return.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\modernbutton.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\modernbutton.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\register_student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\register_student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|c:\\users\\t480s\\source\\repos\\library_system_new\\library_system_new\\roundpicturebox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95610C03-1969-40A6-9D1C-94AFD4C5E71E}|Library_System_New\\Library_System_New.vbproj|solutionrelative:library_system_new\\roundpicturebox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\AddStudent.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\AddStudent.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\AddStudent.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\AddStudent.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-14T17:43:03.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LibraryAdmin.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\LibraryAdmin.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LibraryAdmin.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\LibraryAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-14T17:37:13.46Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form2.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form2.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form2.vb",
+              "RelativeToolTip": "Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form2.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-14T17:28:59.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form1.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form1.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form1.vb",
+              "RelativeToolTip": "Library_System_New\\LAST-INVENTORY-master\\LAST INVENTORY\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-14T17:28:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\student.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\student.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\student.vb",
+              "RelativeToolTip": "Library_System_New\\student.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-14T17:15:08.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\student.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\student.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\student.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\student.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-14T17:03:24.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\login.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\login.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\login.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T16:54:31.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModernButton.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\ModernButton.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\ModernButton.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\ModernButton.vb",
+              "RelativeToolTip": "Library_System_New\\ModernButton.vb",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowIgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T18:06:39.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoundPictureBox.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\RoundPictureBox.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\RoundPictureBox.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\RoundPictureBox.vb",
+              "RelativeToolTip": "Library_System_New\\RoundPictureBox.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T16:58:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "register_student.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\register_student.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\register_student.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\register_student.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\register_student.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T16:57:28.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoundTextBox.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\RoundTextBox.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\RoundTextBox.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\RoundTextBox.vb",
+              "RelativeToolTip": "Library_System_New\\RoundTextBox.vb",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAowKsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T16:21:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "inventory.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\inventory.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\inventory.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\inventory.vb",
+              "RelativeToolTip": "Library_System_New\\inventory.vb",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwJoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:54:19.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "inventory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\inventory.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\inventory.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\inventory.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\inventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:54:11.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "borrow_book.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\borrow_book.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\borrow_book.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\borrow_book.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\borrow_book.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:16:32.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "borrow_book.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\borrow_book.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\borrow_book.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\borrow_book.vb",
+              "RelativeToolTip": "Library_System_New\\borrow_book.vb",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:15:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LibraryAdmin.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\LibraryAdmin.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\LibraryAdmin.vb",
+              "RelativeToolTip": "Library_System_New\\LibraryAdmin.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:10:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "return.vb",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\return.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\return.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\return.vb",
+              "RelativeToolTip": "Library_System_New\\return.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:05:10.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "return_book.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\return_book.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\return_book.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\return_book.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\return_book.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:05:03.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "return_books.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\return_books.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\return_books.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\return_books.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\return_books.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:04:57.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "superadmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\superadmin.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\superadmin.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\superadmin.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\superadmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:04:50.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "edit_book.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\edit_book.vb",
+              "RelativeDocumentMoniker": "Library_System_New\\edit_book.vb",
+              "ToolTip": "C:\\Users\\T480s\\source\\repos\\Library_System_New\\Library_System_New\\edit_book.vb [Design]",
+              "RelativeToolTip": "Library_System_New\\edit_book.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-11T15:03:45.435Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
